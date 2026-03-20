@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Siri & AI Quality**
 
-- 💻 I’m currently learning **Swift & Python languages**
+- 💻 I’m currently learning **Swift & Python programming languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
