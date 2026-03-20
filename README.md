@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shawn</h1>
-<h3 align="center">A computer science graduate student from CSUN</h3>
+<h3 align="center">A computer science graduate from California State University Northridge</h3>
 
 - 🔭 I’m currently working on **Siri & AI Quality**
 
